@@ -39,7 +39,8 @@ body {
 ol, ul {
 	list-style: none;
 }
-.redh5 {color:red !important;}
+.redh5 {color: #f00 !important;
+    font-weight: bold;}
 .hr_right {
     position: relative;
     display: block;
